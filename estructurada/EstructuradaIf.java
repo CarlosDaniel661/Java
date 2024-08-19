@@ -20,7 +20,7 @@ class EstructuradaIf {
         }
 
         if (topPuntaje > 90 || segundoPuntaje < 70) {
-            System.out.println("Top puntaje es mayor que 90 o segundo puntaje menor que 70")
+            System.out.println("Top puntaje es mayor que 90 o segundo puntaje menor que 70");
         }
     }
 }
